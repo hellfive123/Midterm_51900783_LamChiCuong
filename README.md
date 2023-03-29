@@ -1,10 +1,15 @@
 # Project Spring Ecommerce
 * Là một ứng dụng đơn giản về CRUD, sử dụng Spring Boot, Spring Security, RestFul API, MySQL, Thymeleaf.
-## Các chức năng
+## Các chức năng đã có
 * Đăng ký với quyền mặc định là USER, đăng nhập.
 * Admin có thể thêm sửa xóa sản phẩm.
-* User có thể xem chi tiết sản phẩm, thêm sản phẩm vào giỏ hàng, xóa sản phẩm trong giỏ hàng.
-* Trong giỏ hàng hiện tên sản phẩm, giá tiền từng sản phẩm và tổng tiền phải trả.
+* User có thể thêm sản phẩm vào giỏ hàng, xóa sản phẩm trong giỏ hàng.
+* Trong giỏ hàng hiện tên sản phẩm, giá tiền từng sản phẩm.
+## Các chức năng chưa hoàn thiện
+* Giao diện đơn giản.
+* Thanh toán.
+* Xem chi tiết sản phẩm.
+* Xem tổng tiền của tất cả sản phẩm trong giỏ hàng.
 ## Sơ đồ ERD của database
 ![ERD](https://github.com/hellfive123/Midterm_51900783_LamChiCuong/blob/master/erdiagram.png?raw=true)
 #### **User** có mối quan hệ 1-n với **Cart**. Hay nói cách khác, một người dùng có thể thêm nhiều mặt hàng vào giỏ , nhưng mỗi giỏ hàng chỉ có thể có liên kết với người dùng đó.
