@@ -54,6 +54,7 @@ Trong đó
 * **Service layer**: Tầng này là tầng trung gian chứa các class trung gian xử lý logic giữa UI và DB.
 * **DTO layer**: Tầng này có mục đích truyền dữ liệu giữa các class khác nhau, như trong project sẽ là truyền các tham số để tìm kiếm sản phẩm từ client đến server.
 * **Repository layer**: Chịu trách nhiệm giao tiếp với các DB, xử lý query và trả về các kiểu dữ liệu mà tầng Service yêu cầu.
+* **Security layer**: chứa các file config Spring Security.
 ## Cài đặt project
 ### Hướng dẫn chạy project
 * Clone source code về và chạy lại file pom để tải các dependency
