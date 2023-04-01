@@ -1,4 +1,4 @@
-# Project Spring Ecommerce
+# Project Spring Commerce
 * Là một ứng dụng đơn giản về CRUD, sử dụng Spring Boot, Spring Security, RestFul API, MySQL, Thymeleaf.
 ## Các chức năng đã có
 * Đăng ký với quyền mặc định là USER, đăng nhập.
