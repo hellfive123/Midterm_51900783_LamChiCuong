@@ -7,8 +7,7 @@
 * Trong giỏ hàng hiện tên sản phẩm, giá tiền từng sản phẩm.
 ## Các chức năng chưa hoàn thiện
 * Giao diện đơn giản.
-* Thanh toán.
-* Xem chi tiết sản phẩm.
+* Check out order.
 * Xem tổng tiền của tất cả sản phẩm trong giỏ hàng.
 ## Sơ đồ ERD của database
 ![ERD](https://github.com/hellfive123/Midterm_51900783_LamChiCuong/blob/master/erdiagram.png?raw=true)
